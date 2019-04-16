@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.App-logo {
+  width: 100px;
+  pointer-events: none;
+}
